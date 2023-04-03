@@ -1,1 +1,1 @@
-lua require('kanagawa').load()
+lua require("kanagawa").load "dragon"
